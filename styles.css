@@ -1,0 +1,200 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+  }
+
+  .google-logo{
+    position:absolute;
+    right: 800px;
+    bottom: 580px;
+  }
+
+  .butt {
+    background-color: #F8F9FA;
+    border-style: none;
+    margin: 11px 4px;
+    padding: 8px 16px;
+  }
+
+  .butt:hover {
+    box-shadow: 0 0 1px 1px #e4e4e4;
+    outline: none;
+  }
+
+  .searchbar {
+   position:absolute;
+   right: 660px;
+   bottom: 500px; 
+   border-color: #888888;
+   border-style: solid;
+   border-width: 1px;
+   border-radius: 20px;
+   display: block;
+   margin: 10px;
+   padding: 10px;
+   width: 520px;
+   height: 25px;
+  }
+
+  .buttsearch {
+    position:absolute;
+    right: 940px;
+    bottom: 440px;
+    border-radius: 6px;
+    background-color: #F8F9FA;
+    border-style: none;
+    margin: 11px 4px;
+    padding: 8px 16px;
+    width: 150px;
+    height: 40px;
+  }
+
+.buttsearch:hover {
+    position:absolute;
+    right: 940px;
+    bottom: 440px;
+    border-radius: 6px;
+    border-style: solid;
+    border-color: #e2e2e2;
+    margin: 11px 4px;
+    padding: 8px 16px; 
+}
+
+.buttluck {
+  position:absolute;
+  right: 780px;
+  bottom: 440px;
+  border-radius: 6px;
+  background-color: #F8F9FA;
+  border-style: none;
+  margin: 11px 4px;
+  padding: 8px 16px;
+  width: 150px;
+  height: 40px;
+}
+  
+.buttluck:hover {
+  position:absolute;
+  right: 780px;
+  bottom: 440px;
+  border-radius: 6px;
+  border-style: solid;
+  border-color: #e4e4e4;
+  margin: 11px 4px;
+  padding: 8px 16px; 
+}
+
+a {
+  text-decoration:none;
+}
+.images-link{
+  position:absolute;
+  right: 150px;
+  top: 10px;
+}
+
+.advsearch-link {
+  position:absolute;
+  right: 10px;
+  top: 10px;
+}
+
+.searchlink {
+  position:absolute;
+  right: 30px;
+  top: 10px;
+}
+
+.searchlinkimg{
+  position: absolute;
+  right: 150px;
+  top: 10px;
+}
+
+.buttsearchimage{
+  background-color: transparent;
+  border-color: transparent;
+  color:transparent;
+  cursor:default
+}
+
+.advsearchlogo {
+  padding: 10px;
+}
+.advsearchlogo img {
+  height: 30px;
+}
+
+.advancetext {
+  margin: 30px 10px;
+}
+.advancetext label {
+  color: #d93025;
+  font-size: 26px;
+  margin: 50px 30px;
+}
+
+.findpagestext {
+  margin: 45px 45px;
+} 
+
+.todo {
+  position:absolute;
+  left: 880px;
+  top: 220px;
+} 
+
+.allthesewords {
+  margin: 45px 35px;
+}
+
+p{
+  margin: 45px 35px;
+}
+
+.text-input-table {
+  margin: 45px 35px;
+}
+
+.advsearchbar {
+  border-radius: 1px;
+  display: block;
+  margin: 7px;
+  padding: 7px;
+  width: 600px;
+}
+
+.advsearchbutt {
+  color: white;
+  background-color: #4b8df8;
+  border-style: none;
+  margin: 11px 4px;
+  padding: 8px 16px;
+  position: absolute;
+  left: 723px;
+}
+
+.advp1 {
+  font-size: 90%;
+  position:absolute;
+  left: 850px;
+  top: 235px;
+}
+.advp2 {
+  font-size: 90%;
+  position:absolute;
+  left: 850px;
+  top: 288px;
+}
+.advp3 {
+  font-size: 90%;
+  position:absolute;
+  left: 850px;
+  top: 340px;
+}
+.advp4 {
+  font-size: 90%;
+  position:absolute;
+  left: 850px;
+  top: 390px;
+}
